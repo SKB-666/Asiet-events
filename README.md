@@ -3,8 +3,8 @@ Sample prototype under development
 
 To view the most basic demo,
 1. Download build.rar file and extract
-2 .Install serve globally: npm install -g serve
-3 .From folder where build is located: serve -s build
+2. Install serve globally: npm install -g serve
+3. From folder where build is located: serve -s build
 4. Open url to view demo
 
 It is the most basic frontend demo, it is not complete at the moment and has more work to be done and stuff to be included.
