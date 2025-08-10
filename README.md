@@ -9,6 +9,11 @@ To view the most basic demo,
 
 It is the most basic frontend demo, it is not complete at the moment and has more work to be done and stuff to be included.
 
-![fghb](https://github.com/user-attachments/assets/4f1de087-4c5c-4f16-bbf2-dfa110a0811f)
 
-![Captureghgbv](https://github.com/user-attachments/assets/7a6485ca-36fc-409c-af43-e75e33ea0f70)
+![homepage1](https://github.com/user-attachments/assets/09aecc69-6aa3-4757-8f88-985e5da88a71)
+
+![homepag2](https://github.com/user-attachments/assets/c11a5e09-3e1b-4db1-98bc-c04f1212f5fa)
+
+![admin](https://github.com/user-attachments/assets/c56ca011-1e26-45ba-a8be-f7b3f319a9cf)
+
+![upload](https://github.com/user-attachments/assets/7551ea49-c385-42ee-98e6-fe31bb7889ef)
